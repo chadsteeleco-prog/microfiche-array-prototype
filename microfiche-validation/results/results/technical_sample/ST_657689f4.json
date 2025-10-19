@@ -1,0 +1,12 @@
+{
+  "id": "ST_657689f4",
+  "summary": "However, the implementation requires careful \n            consideration of expansion policies to avo...",
+  "confidence": 1.0,
+  "full_text": "However, the implementation requires careful \n            consideration of expansion policies to avoid computational overhead A controller \n            must intelligently decide when to retrieve full details versus operating on \n            compressed representations",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 267,
+    "compressed_length": 103,
+    "compression_ratio": 0.6142322097378277
+  }
+}

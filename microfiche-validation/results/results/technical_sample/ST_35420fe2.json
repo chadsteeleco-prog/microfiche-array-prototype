@@ -1,0 +1,12 @@
+{
+  "id": "ST_35420fe2",
+  "summary": "Self-attention computes relationships between all positions \n            in a sequence Multi-head at...",
+  "confidence": 1.0,
+  "full_text": "Self-attention computes relationships between all positions \n            in a sequence Multi-head attention allows the model to jointly attend to \n            information from different representation subspaces",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 210,
+    "compressed_length": 103,
+    "compression_ratio": 0.5095238095238095
+  }
+}

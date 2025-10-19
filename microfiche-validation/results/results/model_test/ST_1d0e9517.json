@@ -1,0 +1,12 @@
+{
+  "id": "ST_1d0e9517",
+  "summary": "Large language models like GPT demonstrate unprecedented capabilities in natural\n        language un...",
+  "confidence": 1.0,
+  "full_text": "Large language models like GPT demonstrate unprecedented capabilities in natural\n        language understanding and generation However, these models face significant\n        challenges with memory efficiency and context length limitations",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 238,
+    "compressed_length": 103,
+    "compression_ratio": 0.5672268907563025
+  }
+}

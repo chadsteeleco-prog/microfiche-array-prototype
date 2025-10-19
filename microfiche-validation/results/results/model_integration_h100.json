@@ -1,0 +1,30 @@
+{
+  "hardware": {
+    "gpu": "NVIDIA H100 80GB HBM3",
+    "memory_gb": 85.028634624
+  },
+  "baseline": {
+    "method": "baseline",
+    "input_tokens": 786,
+    "memory_used_gb": 0.15166156800000008,
+    "peak_memory_gb": 0.753670656,
+    "time_seconds": 0.49839019775390625,
+    "output_length": 3244
+  },
+  "microfiche": {
+    "method": "microfiche",
+    "supertokens": 17,
+    "compression_ratio": 45.80463368816531,
+    "input_tokens": 376,
+    "memory_used_gb": 0.0913131519999999,
+    "peak_memory_gb": 0.726876672,
+    "time_seconds": 0.20093870162963867,
+    "output_length": 1982
+  },
+  "improvements": {
+    "compression_ratio": 45.80463368816531,
+    "memory_reduction_percent": 39.79150208970552,
+    "time_change_percent": -59.68245311902029,
+    "token_reduction": 410
+  }
+}

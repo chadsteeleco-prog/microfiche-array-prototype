@@ -1,0 +1,12 @@
+{
+  "id": "ST_770cba84",
+  "summary": "In order to address this \n            limitation, researchers have proposed hierarchical tokenizatio...",
+  "confidence": 1.0,
+  "full_text": "In order to address this \n            limitation, researchers have proposed hierarchical tokenization approaches These \n            methods compress semantic chunks into supertokens while maintaining detailed \n            information in separate storage tiers",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 259,
+    "compressed_length": 103,
+    "compression_ratio": 0.6023166023166023
+  }
+}

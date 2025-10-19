@@ -1,0 +1,12 @@
+{
+  "id": "ST_75e6e877",
+  "summary": "Memory usage\n        drops significantly while maintaining answer quality Inference speed improves t...",
+  "confidence": 1.0,
+  "full_text": "Memory usage\n        drops significantly while maintaining answer quality Inference speed improves through\n        reduced token processing",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 139,
+    "compressed_length": 103,
+    "compression_ratio": 0.25899280575539574
+  }
+}

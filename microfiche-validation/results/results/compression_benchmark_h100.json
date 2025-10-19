@@ -1,0 +1,19 @@
+{
+  "hardware": {
+    "gpu": "NVIDIA H100 80GB HBM3",
+    "memory_gb": 85.028634624,
+    "cuda_version": "12.6",
+    "pytorch_version": "2.5.0a0+b465a5843b.nv24.09"
+  },
+  "benchmarks": [
+    {
+      "dataset": "technical_sample",
+      "documents": 50,
+      "total_chunks": 100,
+      "avg_chunks_per_doc": 2.0,
+      "compression_ratio": 56.02049530315969,
+      "avg_processing_time": 0.008942394256591797,
+      "throughput_docs_per_sec": 111.82687447076714
+    }
+  ]
+}

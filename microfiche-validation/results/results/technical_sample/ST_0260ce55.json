@@ -1,0 +1,12 @@
+{
+  "id": "ST_0260ce55",
+  "summary": "Machine learning models face significant challenges with context length scaling \n            due to ...",
+  "confidence": 1.0,
+  "full_text": "Machine learning models face significant challenges with context length scaling \n            due to quadratic attention mechanisms The computational cost grows exponentially \n            with sequence length, limiting practical applications",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 240,
+    "compressed_length": 103,
+    "compression_ratio": 0.5708333333333333
+  }
+}

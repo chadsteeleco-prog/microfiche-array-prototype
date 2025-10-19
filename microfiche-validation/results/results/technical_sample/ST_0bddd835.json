@@ -1,0 +1,12 @@
+{
+  "id": "ST_0bddd835",
+  "summary": "Neural network architectures continue to evolve with transformer models leading \n            recent ...",
+  "confidence": 1.0,
+  "full_text": "Neural network architectures continue to evolve with transformer models leading \n            recent advances Attention mechanisms enable modeling of long-range dependencies \n            in sequential data",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 204,
+    "compressed_length": 103,
+    "compression_ratio": 0.4950980392156863
+  }
+}

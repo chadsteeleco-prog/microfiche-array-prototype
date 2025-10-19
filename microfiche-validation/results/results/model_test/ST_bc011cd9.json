@@ -1,0 +1,12 @@
+{
+  "id": "ST_bc011cd9",
+  "summary": "Inference speed improves through\n        reduced token processing The system enables practical deplo...",
+  "confidence": 1.0,
+  "full_text": "Inference speed improves through\n        reduced token processing The system enables practical deployment of models with\n        extended context capabilities at reduced computational cost",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 188,
+    "compressed_length": 103,
+    "compression_ratio": 0.4521276595744681
+  }
+}

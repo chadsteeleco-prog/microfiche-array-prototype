@@ -1,0 +1,12 @@
+{
+  "id": "ST_dd9158e0",
+  "summary": "Performance benchmarks demonstrate the effectiveness of this approach Memory usage\n        drops sig...",
+  "confidence": 1.0,
+  "full_text": "Performance benchmarks demonstrate the effectiveness of this approach Memory usage\n        drops significantly while maintaining answer quality",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 143,
+    "compressed_length": 103,
+    "compression_ratio": 0.2797202797202797
+  }
+}

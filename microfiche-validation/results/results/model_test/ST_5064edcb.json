@@ -1,0 +1,12 @@
+{
+  "id": "ST_5064edcb",
+  "summary": "This enables processing of book-length documents without\n        proportional increases in computati...",
+  "confidence": 1.0,
+  "full_text": "This enables processing of book-length documents without\n        proportional increases in computational cost The microfiche array architecture implements these principles through a three-tier\n        storage hierarchy",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 218,
+    "compressed_length": 103,
+    "compression_ratio": 0.5275229357798166
+  }
+}

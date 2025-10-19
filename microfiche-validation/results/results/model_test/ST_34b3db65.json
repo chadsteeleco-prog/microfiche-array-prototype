@@ -1,0 +1,12 @@
+{
+  "id": "ST_34b3db65",
+  "summary": "The microfiche array architecture implements these principles through a three-tier\n        storage h...",
+  "confidence": 1.0,
+  "full_text": "The microfiche array architecture implements these principles through a three-tier\n        storage hierarchy Fast GPU memory stores compressed headers",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 150,
+    "compressed_length": 103,
+    "compression_ratio": 0.31333333333333335
+  }
+}

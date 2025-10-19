@@ -1,0 +1,12 @@
+{
+  "id": "ST_4dd52256",
+  "summary": "The performance benefits are substantial when processing long documents Models \n            can main...",
+  "confidence": 1.0,
+  "full_text": "The performance benefits are substantial when processing long documents Models \n            can maintain much larger effective context windows without proportional increases \n            in memory usage or computation time",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 222,
+    "compressed_length": 103,
+    "compression_ratio": 0.5360360360360361
+  }
+}

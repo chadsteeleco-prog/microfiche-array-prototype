@@ -1,0 +1,12 @@
+{
+  "id": "ST_b82a695a",
+  "summary": "Multi-scale tokenization and semantic chunking offer promising solutions By\n        organizing infor...",
+  "confidence": 0.9999999999999982,
+  "full_text": "Multi-scale tokenization and semantic chunking offer promising solutions By\n        organizing information into tiered structures, models can maintain larger effective\n        context windows",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 191,
+    "compressed_length": 103,
+    "compression_ratio": 0.46073298429319376
+  }
+}

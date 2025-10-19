@@ -1,0 +1,12 @@
+{
+  "id": "ST_6ea57f9d",
+  "summary": "Expansion policies determine\n        when to retrieve complete information based on confidence score...",
+  "confidence": 1.0,
+  "full_text": "Expansion policies determine\n        when to retrieve complete information based on confidence scores and attention patterns Performance benchmarks demonstrate the effectiveness of this approach",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 194,
+    "compressed_length": 103,
+    "compression_ratio": 0.4690721649484536
+  }
+}

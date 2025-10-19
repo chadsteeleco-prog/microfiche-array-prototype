@@ -1,0 +1,12 @@
+{
+  "id": "ST_b1dd79e0",
+  "summary": "By\n        organizing information into tiered structures, models can maintain larger effective\n     ...",
+  "confidence": 1.0,
+  "full_text": "By\n        organizing information into tiered structures, models can maintain larger effective\n        context windows This enables processing of book-length documents without\n        proportional increases in computational cost",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 228,
+    "compressed_length": 103,
+    "compression_ratio": 0.5482456140350878
+  }
+}

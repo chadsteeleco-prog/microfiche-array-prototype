@@ -1,0 +1,12 @@
+{
+  "id": "ST_7e217955",
+  "summary": "The quadratic\n        scaling of attention mechanisms creates bottlenecks for processing long docume...",
+  "confidence": 1.0,
+  "full_text": "The quadratic\n        scaling of attention mechanisms creates bottlenecks for processing long documents Researchers are exploring hierarchical approaches to address these limitations",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 182,
+    "compressed_length": 103,
+    "compression_ratio": 0.4340659340659341
+  }
+}

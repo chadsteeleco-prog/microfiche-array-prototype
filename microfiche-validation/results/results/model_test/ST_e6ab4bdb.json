@@ -1,0 +1,12 @@
+{
+  "id": "ST_e6ab4bdb",
+  "summary": "NVMe storage holds full details Expansion policies determine\n        when to retrieve complete infor...",
+  "confidence": 1.0,
+  "full_text": "NVMe storage holds full details Expansion policies determine\n        when to retrieve complete information based on confidence scores and attention patterns",
+  "metadata": {
+    "sentence_count": 2,
+    "original_length": 156,
+    "compressed_length": 103,
+    "compression_ratio": 0.33974358974358976
+  }
+}
